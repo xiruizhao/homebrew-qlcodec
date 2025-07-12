@@ -10,6 +10,6 @@ brew install qlcodec
 # Uninstallation
 
 ```
-brew uninstall trojan-go
+brew uninstall qlcodec
 brew untap xiruizhao/qlcodec
 ```
